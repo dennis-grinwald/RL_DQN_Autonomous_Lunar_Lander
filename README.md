@@ -27,6 +27,7 @@ pip install torchvision
 
 Run the Notebook "Deep-Q-Network.ipynb" to train your agent.
 The notebook provides an comparison of the agents ability to land the lunar lander before and after training. You should see strong improvements.
+Optinonally you can skip the training procedure and jump ahead to point 4. in the notebook to load a pretrained model and watch the trained agents performance.
 
 ### Optimizing tests
 
