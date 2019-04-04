@@ -37,7 +37,7 @@ Also you can play around with the exploration parameter epsilon and ReplayBuffer
 
 ### Credits
 
-Influenced by Udacities Nanoprogram: Deep Reinforcement Learning
+The project is part of Udacities Nanoprogram: Deep Reinforcement Learning
 
 https://eu.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893
 
