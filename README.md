@@ -2,7 +2,8 @@
 
 ![](gif/lunar_lander.gif)
 
-Applying the DQN-Reinforcement Learning Algorithm to Gym's Lunar Lander environment.
+Applying the DQN-Reinforcement Learning Algorithm to Gym's Lunar Lander environment. Train an agent to safely land a Lunar Lander on the moon without crashing.
+
 The original paper explaining the Algorithm can be found here:
 https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 
@@ -24,12 +25,12 @@ pip install torchvision
 
 ### Running the experiements
 
-Run the Notebook "Deep-Q-Network" to train your agent.
+Run the Notebook "Deep-Q-Network.ipynb" to train your agent.
 The notebook provides an comparison of the agents ability to land the lunar lander before and after training. You should see strong improvements.
 
 ### Optimizing tests
 
-Tweak several Hyperparameters in the model (Hidden Layer size etc.) to see if you have performance gains.
+Tweak several Hyperparameters in the model.py (Hidden Layer size etc.) to see if you can achieve performance gains.
 Also you can play around with the exploration parameter epsilon and ReplayBuffer size in the dqn_agent.py
 
 
